@@ -1,6 +1,6 @@
 ## About me
 kadokawaドワンゴ情報工科学院の専門部の2年生です。<br>
-バックエンドを主軸としますが、フロントエンドも担当できるフルスタックなエンジニアを目指しています。
+バックエンドを主軸としつつ、フロントエンドも担当できるフルスタックなエンジニアを目指しています。
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Takuya0202)
 
