@@ -15,4 +15,4 @@ kadokawaドワンゴ情報工科学院の専門部の2年生です。<br>
 ![](https://skillicons.dev/icons?i=docker,mysql,git,github)
 
 ## その他リンク  
-- 📝 [Zenn](https://zenn.dev/amethyst/feed)
+- 📝 [Zenn](https://zenn.dev/amethyst)
