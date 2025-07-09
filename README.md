@@ -8,7 +8,7 @@ kadokawaドワンゴ情報工科学院の専門部の2年生です。<br>
 
 ## 使用技術
 ### front
-![](https://skillicons.dev/icons?i=html,css,js,tailwindcss,react)
+![](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,react)
 ### backend
 ![](https://skillicons.dev/icons?i=python,php,django,fastapi,laravel)
 ### その他
