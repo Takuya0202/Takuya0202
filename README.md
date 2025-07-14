@@ -16,3 +16,4 @@ kadokawaドワンゴ情報工科学院の専門部の2年生です。<br>
 
 ## その他リンク  
 - 📝 [Zenn](https://zenn.dev/amethyst)
+-  📌[portfolio](https://takuya0202.github.io/)
