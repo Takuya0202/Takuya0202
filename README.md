@@ -12,7 +12,7 @@ kadokawaドワンゴ情報工科学院の専門部の2年生です。<br>
 ### backend
 ![](https://skillicons.dev/icons?i=python,php,django,fastapi,laravel)
 ### その他
-![](https://skillicons.dev/icons?i=docker,mysql,git,github)
+![](https://skillicons.dev/icons?i=docker,mysql,git,github,markdown)
 
 ## その他リンク  
 - 📝 [Zenn](https://zenn.dev/amethyst)
