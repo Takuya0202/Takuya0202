@@ -14,6 +14,43 @@ kadokawaドワンゴ情報工科学院の専門部の2年生です。<br>
 ### other
 ![](https://skillicons.dev/icons?i=docker,mysql,postgresql,git,github,markdown,vscode,cursor)
 
+## 個人開発
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Takuya0202/make_pc" target="_blank"><strong>Make Pc</strong></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Takuya0202/tintiro_rpg" target="_blank"><strong>チンチロRPG</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Takuya0202/make_pc/main/readme-images/app/parts/index.png" alt="Make Pc" width="100%"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Takuya0202/tintiro_rpg/main/readme-images/hard.png" alt="チンチロRPG" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+## チーム開発
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Takuya0202/meshiltupara" target="_blank"><strong>めしっぱら</strong></a>
+    </td>
+    <td width="50%"></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Takuya0202/meshiltupara/main/readme-images/top.png" alt="めしっぱら" width="100%"/>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+
 ## link
 - 📝 [Zenn](https://zenn.dev/amethyst)
 -  📌[portfolio](https://takuya0202.github.io/)
