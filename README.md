@@ -12,7 +12,7 @@ kadokawaドワンゴ情報工科学院の専門部の2年生です。<br>
 ### backend
 ![](https://skillicons.dev/icons?i=python,php,java,django,fastapi,laravel,supabase)
 ### other
-![](https://skillicons.dev/icons?i=docker,mysql,postgresql,git,github,markdown,vscode,cursor)
+![](https://skillicons.dev/icons?i=docker,mysql,postgresql,git,github,markdown,vscode,figma,swagger)
 
 ## 個人開発
 <table width="100%">
