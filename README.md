@@ -32,6 +32,18 @@ kadokawaドワンゴ情報工科学院の専門部の2年生です。<br>
       <img src="https://raw.githubusercontent.com/Takuya0202/tintiro_rpg/main/readme-images/hard.png" alt="チンチロRPG" width="100%"/>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Takuya0202/Takuya0202.github.io" target="_blank"><strong>Portfolio</strong></a>
+    </td>
+    <td align="center" width="50%"></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Takuya0202/Takuya0202.github.io/main/preview.png" alt="Make Pc" width="100%"/>
+    </td>
+    <td align="center"></td>
+  </tr>
 </table>
 
 ## チーム開発
