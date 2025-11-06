@@ -1,11 +1,33 @@
 ## About me
 kadokawaドワンゴ情報工科学院の専門部の2年生です。<br>
 バックエンドを主軸としつつ、フロントエンドも担当できるフルスタックなエンジニアを目指しています。<br>
-現在は飲食検索アプリ「foodsnap」の開発をしています
+
 <p float="left">
   <img width="50%" height="204px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Takuya0202&theme=vue-dark&layout=compact"></img>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Takuya0202&show_icons=true&theme=vue-dark"></img>
 </p>
+
+
+## main product 😎😎😎
+### 飲食店検索アプリ 「foodsnap」(現在も開発中)
+メニューを中心にアプローチし、直感的に料理の魅力を伝える飲食店検索アプリ <br>
+従来の飲食店検索アプリにあるカード形式の一覧表示や複雑な店舗情報を廃止し、<br>
+メニュー中心にアプローチし、直感的に店舗の魅力を伝え、フリック操作で飲食店を発見できるwebアプリケーションです<br>
+
+ソースコード：<a href="https://github.com/Takuya0202/foodsnap-app">こちらをクリック</a><br>
+
+ドキュメント：<a href="https://github.com/Takuya0202/foodsnap">こちらをクリック</a><br>
+
+### ユーザー画面
+<a href="https://www.foodsnap.org/">こちらをクリック</a><br>
+
+現在はスマホ(chrome,braveなどで動作確認済み)のみのレスポンシブです
+
+### 管理者画面
+<a href="https://www.foodsnap.org/admin/dashboard">こちらをクリック</a><br>
+
+タブレット 〜 ノートパソコンでのレスポンシブです
+
 
 ## stacks
 ### front
