@@ -59,13 +59,17 @@ kadokawaドワンゴ情報工科学院の専門部の2年生です。<br>
     <td align="center" width="50%">
       <a href="https://github.com/Takuya0202/Takuya0202.github.io" target="_blank"><strong>Portfolio</strong></a>
     </td>
-    <td align="center" width="50%"></td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Takuya0202/foodsnap" target="_blank"><strong>FoodSnap</strong></a>
+    </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Takuya0202/Takuya0202.github.io/main/preview.png" alt="Make Pc" width="100%"/>
     </td>
-    <td align="center"></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Takuya0202/foodsnap/main/readme-images/top1.png" alt="Foodsnap" width="100%"/>
+    </td>
   </tr>
 </table>
 
