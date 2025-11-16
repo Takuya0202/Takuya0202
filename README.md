@@ -18,6 +18,13 @@ kadokawaドワンゴ情報工科学院の専門部の2年生です。<br>
 
 ドキュメント：<a href="https://github.com/Takuya0202/foodsnap">こちらをクリック</a><br>
 
+### バイカーのためのナビゲーションアプリ「b-map」(チーム制作)
+バイカーのためのナビゲーションアプリ<br>
+バイカーにとって最適なmap(駐車場、天候など)の情報を含めた地図を提供します<br>
+
+ソースコード ：　<a href="https://github.com/Takuya0202/vantan-project-f-team">こちらをクリック</a><br>
+アプリURL : <a href="https://b-map-tan.vercel.app">こちらをクリック</a><br>
+
 ### ユーザー画面
 <a href="https://www.foodsnap.org/">こちらをクリック</a><br>
 
