@@ -91,13 +91,17 @@ kadokawaドワンゴ情報工科学院の専門部の2年生です。<br>
     <td align="center" width="50%">
       <a href="https://github.com/Takuya0202/meshiltupara" target="_blank"><strong>めしっぱら</strong></a>
     </td>
-    <td width="50%"></td>
+    <td width="50%">
+      <a href="https://github.com/Takuya0202/vantan-project-f-team" target="_blank"><strong>b-map</strong></a>
+    </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Takuya0202/meshiltupara/main/readme-images/top.png" alt="めしっぱら" width="100%"/>
     </td>
-    <td></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Takuya0202/vantan-project-f-team/main/readme-images/top1.png" alt="b-map" width="100%"/>
+    </td>
   </tr>
 </table>
 
