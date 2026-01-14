@@ -103,6 +103,20 @@ kadokawaドワンゴ情報工科学院の専門部の2年生です。<br>
       <img src="https://raw.githubusercontent.com/Takuya0202/vantan-project-f-team/main/readme-images/top1.png" alt="b-map" width="100%"/>
     </td>
   </tr>
+    <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Takuya0202/Deravel" target="_blank"><strong>Deravel</strong></a>
+    </td>
+    <td width="50%" align="center">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Takuya0202/Deravel/local-config/readme-images/top-page-1.png" alt="Deravel" width="100%"/>
+    </td>
+    <td align="center">
+    </td>
+  </tr>
 </table>
 
 
