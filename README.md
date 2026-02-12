@@ -40,7 +40,11 @@ kadokawaドワンゴ情報工科学院の専門部の2年生です。<br>
 
 アプリURL : <a href="https://b-map-tan.vercel.app">こちらをクリック</a><br>
 
-
+### readme自動生成アプリ
+#### ソース
+[バックエンド](https://github.com/Takuya0202/readme-generator-api)<br>
+[フロントエンド](https://github.com/Takuya0202/readme-generator)<br>
+[製作物url *サーバー停止する場合あり。](https://readme-generator-4wk.pages.dev/login)<br>
 ## stacks
 ### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
