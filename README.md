@@ -44,6 +44,7 @@ kadokawaドワンゴ情報工科学院の専門部の2年生です。<br>
 #### 概要
 最低限の入力だけでREADME.mdを生成してくれるアプリケーション<br>
 laravelとreactを使って5日間ほどで製作しました。<br>
+無料枠では内部のaiのリクエスト回数が少ないので、失敗する恐れあり、毎日の早い者勝ち<br>
 
 #### 製作物Url
 [バックエンド](https://github.com/Takuya0202/readme-generator-api)<br>
