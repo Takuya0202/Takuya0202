@@ -41,7 +41,11 @@ kadokawaドワンゴ情報工科学院の専門部の2年生です。<br>
 アプリURL : <a href="https://b-map-tan.vercel.app">こちらをクリック</a><br>
 
 ### readme自動生成アプリ
-#### ソース
+#### 概要
+最低限の入力だけでREADME.mdを生成してくれるアプリケーション<br>
+laravelとreactを使って5日間ほどで製作しました。<br>
+
+#### 製作物Url
 [バックエンド](https://github.com/Takuya0202/readme-generator-api)<br>
 [フロントエンド](https://github.com/Takuya0202/readme-generator)<br>
 [製作物url *サーバー停止する場合あり。](https://readme-generator-4wk.pages.dev/login)<br>
@@ -151,6 +155,7 @@ kadokawaドワンゴ情報工科学院の専門部の2年生です。<br>
       <a href="https://github.com/Takuya0202/Deravel" target="_blank"><strong>Deravel</strong></a>
     </td>
     <td width="50%" align="center">
+      <a href="https://github.com/Takuya0202/readme-generator" target="_blank"><strong>Readme-generator</strong></a>
     </td>
   </tr>
   <tr>
