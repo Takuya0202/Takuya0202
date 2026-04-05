@@ -8,7 +8,7 @@ kadokawaドワンゴ情報工科学院の専門部の2年生です。<br>
 </p>
 
 
-## main product 😎😎😎
+<!-- ## main product 😎😎😎
 ### 飲食店検索アプリ 「foodsnap」(現在も開発中)
 #### 概要
 メニューを中心にアプローチし、直感的に料理の魅力を伝える飲食店検索アプリ <br>
@@ -50,6 +50,8 @@ laravelとreactを使って5日間ほどで製作しました。<br>
 [バックエンド](https://github.com/Takuya0202/readme-generator-api)<br>
 [フロントエンド](https://github.com/Takuya0202/readme-generator)<br>
 [製作物url *サーバー停止する場合あり。](https://readme-generator-4wk.pages.dev/login)<br>
+ -->
+
 ## stacks
 ### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
